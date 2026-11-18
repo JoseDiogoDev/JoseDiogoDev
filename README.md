@@ -18,9 +18,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
 
 </div>
 
@@ -60,28 +59,6 @@
 - 📁 Compartilhando minha evolução no GitHub
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseDiogoDev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de José Diogo">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDiogoDev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por José Diogo">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoseDiogoDev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de José Diogo">
-
-</div>
-
----
-
-<div align="center">
-
-<div align="center">
 
 ### 🚀 Aprendendo, desenvolvendo e transformando ideias em projetos!
 
